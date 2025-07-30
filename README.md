@@ -158,4 +158,4 @@ go test ./...
 
 ## 👨‍💻 Автор
 
-**atlkhnv** - [GitHub Profile](https://github.com/atlkhnv)
+**LenzGardfild** - [GitHub Profile](https://github.com/LenzGardfild)
