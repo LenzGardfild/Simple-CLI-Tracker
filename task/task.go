@@ -1,7 +1,7 @@
 package task
 
 type Task struct {
-	ID int
-	Text string
-	Status string
+	ID int `json:"id"`
+	Text string `json:"text"`
+	Status string `json:"status"`
 }

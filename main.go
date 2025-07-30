@@ -29,6 +29,6 @@ func main() {
 			continue // If no command is entered, prompt the user again
 		}
 
-		internal.HandleCommand(args) // Call the function to handle the command
+		internal.HandleCommand(args, "tasks.json") // Call the function to handle the command
 	}
 }
