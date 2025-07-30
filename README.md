@@ -127,25 +127,6 @@ Simple-CLI-Tracker/
 - `in-progress` - в процессе выполнения
 - `done` - выполнено
 
-## 🛠️ Разработка
-
-### Сборка для разных платформ
-
-```bash
-# Windows
-GOOS=windows GOARCH=amd64 go build -o task-tracker.exe main.go
-
-# Linux
-GOOS=linux GOARCH=amd64 go build -o task-tracker main.go
-
-# macOS
-GOOS=darwin GOARCH=amd64 go build -o task-tracker main.go
-```
-
-### Запуск тестов
-```bash
-go test ./...
-```
 
 ## 🤝 Вклад в проект
 
